@@ -15,6 +15,7 @@ public class Test {
         
         ob.displayinformation();
         ob.displayinformation1();
+        ob.Super_display();
         
         //use of instanceof//
         
